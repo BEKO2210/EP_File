@@ -1,0 +1,46 @@
+{
+  "source_document": "demo_document_01",
+  "document_summary": "Fiktives Beispieldokument zur Demonstration der Pipeline. Es beschreibt Reisetätigkeiten und geschäftliche Kontakte mehrerer Platzhalter-Akteure. Alle Namen sind frei erfunden und dienen ausschließlich dem Test der Visualisierung.",
+  "entities": [
+    { "name": "Person Alpha", "type": "person", "mention_only": true },
+    { "name": "Person Beta", "type": "person", "mention_only": true },
+    { "name": "Person Gamma", "type": "person", "mention_only": true },
+    { "name": "Nordstern Stiftung", "type": "org", "mention_only": true },
+    { "name": "Hafenstadt", "type": "place", "mention_only": true }
+  ],
+  "relationships": [
+    {
+      "source": "Person Alpha",
+      "target": "Person Beta",
+      "relation": "reiste gemeinsam nach",
+      "evidence_quote": "Person Alpha und Person Beta reisten im Frühjahr gemeinsam nach Hafenstadt.",
+      "page": 3
+    },
+    {
+      "source": "Person Alpha",
+      "target": "Nordstern Stiftung",
+      "relation": "spendete an",
+      "evidence_quote": "Eine Zuwendung von Person Alpha an die Nordstern Stiftung ist vermerkt.",
+      "page": 5
+    },
+    {
+      "source": "Person Beta",
+      "target": "Hafenstadt",
+      "relation": "aufenthalt in",
+      "evidence_quote": "Person Beta hielt sich mehrere Tage in Hafenstadt auf.",
+      "page": 4
+    }
+  ],
+  "events": [
+    {
+      "date": "2001-04-12",
+      "description": "Gemeinsame Reise von Person Alpha und Person Beta nach Hafenstadt.",
+      "source_page": 3
+    },
+    {
+      "date": "2002-09-01",
+      "description": "Zuwendung von Person Alpha an die Nordstern Stiftung.",
+      "source_page": 5
+    }
+  ]
+}

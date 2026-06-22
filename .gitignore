@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Daten (nicht versionieren — Provenienz/Opferschutz)
+data/raw/
+data/text/
+data/analysis/
+*.pdf
+
+# Node / Web
+web/node_modules/
+web/dist/
+web/.vite/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+web/.tsbuild/
+*.tsbuildinfo

@@ -1,0 +1,180 @@
+{
+  "generated_at": "2026-06-22T21:22:39.650995+00:00",
+  "disclaimer": "Hinweis: Diese Daten stammen aus öffentlich freigegebenen Dokumenten. Eine Nennung in einem Dokument bedeutet KEINE Schuld, Anklage oder Verurteilung. Geschwärzte Inhalte wurden nicht ausgewertet.",
+  "stats": {
+    "documents": 2,
+    "entities": 8,
+    "relationships": 6,
+    "events": 4
+  },
+  "nodes": [
+    {
+      "id": "person:person alpha",
+      "name": "Person Alpha",
+      "type": "person",
+      "mention_only": true,
+      "degree": 2,
+      "documents": [
+        "demo_document_01"
+      ]
+    },
+    {
+      "id": "person:person beta",
+      "name": "Person Beta",
+      "type": "person",
+      "mention_only": true,
+      "degree": 3,
+      "documents": [
+        "demo_document_01",
+        "demo_document_02"
+      ]
+    },
+    {
+      "id": "person:person gamma",
+      "name": "Person Gamma",
+      "type": "person",
+      "mention_only": false,
+      "degree": 1,
+      "documents": [
+        "demo_document_01",
+        "demo_document_02"
+      ]
+    },
+    {
+      "id": "org:nordstern stiftung",
+      "name": "Nordstern Stiftung",
+      "type": "org",
+      "mention_only": true,
+      "degree": 1,
+      "documents": [
+        "demo_document_01"
+      ]
+    },
+    {
+      "id": "place:hafenstadt",
+      "name": "Hafenstadt",
+      "type": "place",
+      "mention_only": true,
+      "degree": 1,
+      "documents": [
+        "demo_document_01"
+      ]
+    },
+    {
+      "id": "person:person delta",
+      "name": "Person Delta",
+      "type": "person",
+      "mention_only": true,
+      "degree": 2,
+      "documents": [
+        "demo_document_02"
+      ]
+    },
+    {
+      "id": "org:anwaltskanzlei meridian",
+      "name": "Anwaltskanzlei Meridian",
+      "type": "org",
+      "mention_only": true,
+      "degree": 1,
+      "documents": [
+        "demo_document_02"
+      ]
+    },
+    {
+      "id": "place:inselresidenz",
+      "name": "Inselresidenz",
+      "type": "place",
+      "mention_only": true,
+      "degree": 1,
+      "documents": [
+        "demo_document_02"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": "person:person alpha",
+      "target": "person:person beta",
+      "relation": "reiste gemeinsam nach",
+      "evidence_quote": "Person Alpha und Person Beta reisten im Frühjahr gemeinsam nach Hafenstadt.",
+      "page": 3,
+      "source_document": "demo_document_01"
+    },
+    {
+      "source": "person:person alpha",
+      "target": "org:nordstern stiftung",
+      "relation": "spendete an",
+      "evidence_quote": "Eine Zuwendung von Person Alpha an die Nordstern Stiftung ist vermerkt.",
+      "page": 5,
+      "source_document": "demo_document_01"
+    },
+    {
+      "source": "person:person beta",
+      "target": "place:hafenstadt",
+      "relation": "aufenthalt in",
+      "evidence_quote": "Person Beta hielt sich mehrere Tage in Hafenstadt auf.",
+      "page": 4,
+      "source_document": "demo_document_01"
+    },
+    {
+      "source": "person:person beta",
+      "target": "person:person delta",
+      "relation": "stellte vor",
+      "evidence_quote": "Person Beta stellte Person Delta bei einem Treffen vor.",
+      "page": 2,
+      "source_document": "demo_document_02"
+    },
+    {
+      "source": "person:person gamma",
+      "target": "org:anwaltskanzlei meridian",
+      "relation": "wurde vertreten durch",
+      "evidence_quote": "Person Gamma wurde laut Akte durch die Anwaltskanzlei Meridian vertreten.",
+      "page": 7,
+      "source_document": "demo_document_02"
+    },
+    {
+      "source": "person:person delta",
+      "target": "place:inselresidenz",
+      "relation": "besuchte",
+      "evidence_quote": "Ein Besuch von Person Delta auf der Inselresidenz ist dokumentiert.",
+      "page": 8,
+      "source_document": "demo_document_02"
+    }
+  ],
+  "events": [
+    {
+      "date": "2001-04-12",
+      "description": "Gemeinsame Reise von Person Alpha und Person Beta nach Hafenstadt.",
+      "source_document": "demo_document_01",
+      "source_page": 3
+    },
+    {
+      "date": "2002-09-01",
+      "description": "Zuwendung von Person Alpha an die Nordstern Stiftung.",
+      "source_document": "demo_document_01",
+      "source_page": 5
+    },
+    {
+      "date": "2003-06-20",
+      "description": "Treffen, bei dem Person Beta Person Delta vorstellte.",
+      "source_document": "demo_document_02",
+      "source_page": 2
+    },
+    {
+      "date": "2005-11-03",
+      "description": "Gerichtlicher Vorgang mit Beteiligung von Person Gamma.",
+      "source_document": "demo_document_02",
+      "source_page": 7
+    }
+  ],
+  "summaries": [
+    {
+      "source_document": "demo_document_01",
+      "summary": "Fiktives Beispieldokument zur Demonstration der Pipeline. Es beschreibt Reisetätigkeiten und geschäftliche Kontakte mehrerer Platzhalter-Akteure. Alle Namen sind frei erfunden und dienen ausschließlich dem Test der Visualisierung."
+    },
+    {
+      "source_document": "demo_document_02",
+      "summary": "Zweites fiktives Beispieldokument. Es nennt zusätzliche Platzhalter-Personen und eine Organisation und verknüpft sie mit den Akteuren aus dem ersten Dokument. Dient ausschließlich dem Test der dokumentenübergreifenden Aggregation."
+    }
+  ]
+}
