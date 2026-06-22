@@ -1,0 +1,62 @@
+{
+  "source_document": "Strafverfahren Epstein – Gerichtsakten / Berichterstattung (NPR, CBS), 2019–2025",
+  "document_summary": "Jeffrey Epstein wurde im Juli 2019 von Bundesanwälten des Southern District of New York wegen Sexhandels mit Minderjährigen angeklagt (Vorwürfe betreffen die Jahre 2002–2005). Zuvor hatte es 2008 in Florida eine Nichtverfolgungsvereinbarung gegeben. Epstein starb am 10. August 2019 in Untersuchungshaft; der Tod wurde als Suizid eingestuft.",
+  "entities": [
+    { "name": "Jeffrey Epstein", "type": "person", "mention_only": false },
+    { "name": "Southern District of New York (SDNY)", "type": "org", "mention_only": true },
+    { "name": "FBI", "type": "org", "mention_only": true },
+    { "name": "Manhattan-Stadthaus", "type": "place", "mention_only": true },
+    { "name": "Anwesen Palm Beach (Florida)", "type": "place", "mention_only": true },
+    { "name": "Little Saint James (US Virgin Islands)", "type": "place", "mention_only": true },
+    { "name": "Zorro Ranch (New Mexico)", "type": "place", "mention_only": true }
+  ],
+  "relationships": [
+    {
+      "source": "Southern District of New York (SDNY)",
+      "target": "Jeffrey Epstein",
+      "relation": "erhob Anklage gegen",
+      "evidence_quote": "Bundesanwälte des SDNY klagten Epstein im Juli 2019 wegen Sexhandels mit Minderjährigen an.",
+      "page": null
+    },
+    {
+      "source": "FBI",
+      "target": "Jeffrey Epstein",
+      "relation": "ermittelte gegen",
+      "evidence_quote": "Das FBI war an den Ermittlungen gegen Epstein beteiligt.",
+      "page": null
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Manhattan-Stadthaus",
+      "relation": "Eigentum / Aufenthaltsort",
+      "evidence_quote": "Epstein besaß ein Stadthaus in Manhattan.",
+      "page": null
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Anwesen Palm Beach (Florida)",
+      "relation": "Eigentum / Aufenthaltsort",
+      "evidence_quote": "Epstein besaß ein Anwesen in Palm Beach, Florida.",
+      "page": null
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Little Saint James (US Virgin Islands)",
+      "relation": "Eigentum / Aufenthaltsort",
+      "evidence_quote": "Epstein besaß die Insel Little Saint James auf den US Virgin Islands.",
+      "page": null
+    },
+    {
+      "source": "Jeffrey Epstein",
+      "target": "Zorro Ranch (New Mexico)",
+      "relation": "Eigentum / Aufenthaltsort",
+      "evidence_quote": "Epstein besaß die Zorro Ranch in New Mexico.",
+      "page": null
+    }
+  ],
+  "events": [
+    { "date": "2008-06-01", "description": "Nichtverfolgungsvereinbarung in Florida im Fall Epstein.", "source_page": null },
+    { "date": "2019-07-06", "description": "Festnahme Epsteins; Anklage des SDNY wegen Sexhandels (Vorwürfe 2002–2005).", "source_page": null },
+    { "date": "2019-08-10", "description": "Epstein stirbt in Untersuchungshaft; Tod als Suizid eingestuft.", "source_page": null }
+  ]
+}

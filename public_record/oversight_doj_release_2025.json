@@ -1,0 +1,31 @@
+{
+  "source_document": "House Oversight Committee / DOJ-Freigabe 2025 (oversight.house.gov)",
+  "document_summary": "Der US-Kongressausschuss für Aufsicht (House Oversight Committee) veröffentlichte 2025 vom Justizministerium (DOJ) übergebene Epstein-Akten. Laut Ausschuss umfasste die erste Tranche 33.295 Seiten (u. a. Flugprotokolle, Gerichtsdokumente, Vernehmungen); später kamen rund 20.000 Seiten aus Epsteins Nachlass hinzu. Opferidentitäten wurden geschwärzt.",
+  "entities": [
+    { "name": "House Oversight Committee", "type": "org", "mention_only": true },
+    { "name": "US-Justizministerium (DOJ)", "type": "org", "mention_only": true },
+    { "name": "FBI", "type": "org", "mention_only": true },
+    { "name": "Jeffrey Epstein", "type": "person", "mention_only": false }
+  ],
+  "relationships": [
+    {
+      "source": "House Oversight Committee",
+      "target": "US-Justizministerium (DOJ)",
+      "relation": "forderte per Subpoena Akten an von",
+      "evidence_quote": "Chairman Comer stellte am 5. August 2025 eine Subpoena an das DOJ für Epstein-bezogene Unterlagen.",
+      "page": null
+    },
+    {
+      "source": "US-Justizministerium (DOJ)",
+      "target": "Jeffrey Epstein",
+      "relation": "veröffentlichte Ermittlungsakten zu",
+      "evidence_quote": "Das DOJ übergab dem Ausschuss Epstein-bezogene Akten, u. a. Flugprotokolle und Gerichtsdokumente.",
+      "page": null
+    }
+  ],
+  "events": [
+    { "date": "2025-08-05", "description": "Subpoena von Chairman Comer (House Oversight) an das DOJ für Epstein-Unterlagen.", "source_page": null },
+    { "date": "2025-09-02", "description": "House Oversight veröffentlicht 33.295 Seiten vom DOJ übergebener Epstein-Akten.", "source_page": null },
+    { "date": "2025-11-01", "description": "Rund 20.000 weitere Seiten aus Epsteins Nachlass veröffentlicht (u. a. E-Mails).", "source_page": null }
+  ]
+}

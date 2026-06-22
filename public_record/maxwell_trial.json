@@ -1,0 +1,30 @@
+{
+  "source_document": "Verfahren Maxwell – Gerichtsakten / Berichterstattung (Wikipedia, NPR), 2020–2022",
+  "document_summary": "Ghislaine Maxwell wurde im Juli 2020 festgenommen und angeklagt. Nach einem Prozess (29. November bis 29. Dezember 2021) wurde sie in fünf von sechs Anklagepunkten schuldig gesprochen, darunter Sexhandel mit einer Minderjährigen. Im Juni 2022 wurde sie zu 20 Jahren Haft verurteilt. Alexander Acosta war als US-Bundesanwalt in Süd-Florida für die Nichtverfolgungsvereinbarung von 2008 verantwortlich.",
+  "entities": [
+    { "name": "Ghislaine Maxwell", "type": "person", "mention_only": false },
+    { "name": "Jeffrey Epstein", "type": "person", "mention_only": false },
+    { "name": "Alexander Acosta", "type": "person", "mention_only": true }
+  ],
+  "relationships": [
+    {
+      "source": "Ghislaine Maxwell",
+      "target": "Jeffrey Epstein",
+      "relation": "im Zusammenhang verurteilt",
+      "evidence_quote": "Maxwell wurde im Dezember 2021 in fünf von sechs Anklagepunkten schuldig gesprochen, u. a. Sexhandel mit einer Minderjährigen im Umfeld Epsteins.",
+      "page": null
+    },
+    {
+      "source": "Alexander Acosta",
+      "target": "Jeffrey Epstein",
+      "relation": "verantwortete 2008 die Nichtverfolgungsvereinbarung betreffend",
+      "evidence_quote": "Acosta war als US-Bundesanwalt (Süd-Florida) für die Nichtverfolgungsvereinbarung von 2008 zuständig.",
+      "page": null
+    }
+  ],
+  "events": [
+    { "date": "2020-07-02", "description": "Ghislaine Maxwell festgenommen und angeklagt.", "source_page": null },
+    { "date": "2021-12-29", "description": "Maxwell in fünf von sechs Punkten schuldig gesprochen.", "source_page": null },
+    { "date": "2022-06-28", "description": "Maxwell zu 20 Jahren Haft verurteilt.", "source_page": null }
+  ]
+}
