@@ -24,3 +24,6 @@ web/.vite/
 
 web/.tsbuild/
 *.tsbuildinfo
+
+# Importierte Roh-Indizes (Drittquelle, nicht versionieren)
+ingest/raw/

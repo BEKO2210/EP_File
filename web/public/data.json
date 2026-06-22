@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T23:08:22.856490+00:00",
+  "generated_at": "2026-06-22T23:20:48.492742+00:00",
   "disclaimer": "Hinweis: Diese Daten stammen aus öffentlich freigegebenen Dokumenten. Eine Nennung in einem Dokument bedeutet KEINE Schuld, Anklage oder Verurteilung. Geschwärzte Inhalte wurden nicht ausgewertet.",
   "stats": {
-    "documents": 3,
+    "documents": 253,
     "entities": 11,
     "relationships": 10,
-    "events": 9
+    "events": 259
   },
   "nodes": [
     {
@@ -212,6 +212,1506 @@
       "source_page": null
     },
     {
+      "date": "2018-03-04",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032729 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032731 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033076 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-08",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033077 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-14",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033276 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-15",
+      "description": "Email · New York Post, Street New York",
+      "source_document": "HOUSE_OVERSIGHT_033566 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-18",
+      "description": "Email · New York Wednesday",
+      "source_document": "HOUSE_OVERSIGHT_032732 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-20",
+      "description": "Email · California",
+      "source_document": "HOUSE_OVERSIGHT_032733 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032212 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032213 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032214 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032736 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032737 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032739 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032741 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032744 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032745 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032748 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033078 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033079 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033081 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033082 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033084 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-25",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032752 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-25",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032756 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-25",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032760 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-25",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032762 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-03-30",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033277 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-06",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033278 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_032764 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032765 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032766 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_032767 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032768 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033087 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033088 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-10",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033565 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-12",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033279 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032769 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-14",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033280 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032770 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032771 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033090 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-20",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033312 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033091 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-25",
+      "description": "Email · Paris",
+      "source_document": "HOUSE_OVERSIGHT_032218 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-26",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033371 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-04-26",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033372 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-03",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033374 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-04",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033375 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-04",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033377 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032773 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-09",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033092 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-11",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033390 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032774 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-05-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033564 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-06",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033094 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-15",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_031788 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-15",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_031789 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-15",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_031796 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032775 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032776 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032777 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032778 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033095 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-22",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033313 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033096 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-06-28",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033314 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-09",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032779 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-09",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033563 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_031804 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_031806 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email · New York, Floor",
+      "source_document": "HOUSE_OVERSIGHT_031809 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email · New York, Floor",
+      "source_document": "HOUSE_OVERSIGHT_031813 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_031818 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-13",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033097 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032780 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032782 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033098 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033100 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033315 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032785 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032788 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033103 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032792 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-07-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032793 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-18",
+      "description": "Email · Manhattan",
+      "source_document": "HOUSE_OVERSIGHT_031764 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032795 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032796 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033107 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032798 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032800 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033108 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033110 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032801 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032802 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-08-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033111 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-04",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_032803 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-04",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_032804 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-04",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_033112 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033114 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032806 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033115 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033316 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032811 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-20",
+      "description": "Legal",
+      "source_document": "HOUSE_OVERSIGHT_032812 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033120 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-24",
+      "description": "Other · Florida Department, Florida Democratic Party",
+      "source_document": "HOUSE_OVERSIGHT_033469 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-24",
+      "description": "Book · New York December, California",
+      "source_document": "HOUSE_OVERSIGHT_033474 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-09-26",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033122 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-03",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032813 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-03",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_032814 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-03",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_032816 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-03",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033124 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-03",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_033125 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-04",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_032818 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-05",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_032821 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033127 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-05",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_033129 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-05",
+      "description": "Email · Florida",
+      "source_document": "HOUSE_OVERSIGHT_033133 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-12",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033412 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-17",
+      "description": "Legal · California",
+      "source_document": "HOUSE_OVERSIGHT_031768 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-24",
+      "description": "Email · The New York, Floor",
+      "source_document": "HOUSE_OVERSIGHT_033326 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-27",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032825 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-30",
+      "description": "Email · New York, New York City",
+      "source_document": "HOUSE_OVERSIGHT_033414 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-10-30",
+      "description": "Email · New York, New York City",
+      "source_document": "HOUSE_OVERSIGHT_033416 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032827 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033137 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-08",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032828 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-08",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033327 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-16",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033138 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033391 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033418 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033328 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-21",
+      "description": "Legal · New York",
+      "source_document": "HOUSE_OVERSIGHT_033329 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033393 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-28",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033332 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031798 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-29",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033333 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-11-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033419 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032829 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-04",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032832 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-04",
+      "description": "Legal",
+      "source_document": "HOUSE_OVERSIGHT_033395 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-04",
+      "description": "Legal",
+      "source_document": "HOUSE_OVERSIGHT_033420 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033334 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-14",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033335 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-14",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033336 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033422 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033423 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031799 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033398 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033399 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033424 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032834 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033139 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033140 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033337 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031800 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033400 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033425 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2018-12-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033426 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-01-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033339 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-01-18",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033340 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-01-25",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_031770 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033341 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-03",
+      "description": "Email · Palm Beach",
+      "source_document": "HOUSE_OVERSIGHT_033342 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031771 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032051 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033428 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-07",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031822 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-09",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033142 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-10",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033568 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-13",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033343 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033401 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033429 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033402 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033403 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033430 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033431 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031772 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-22",
+      "description": "Email · The New York",
+      "source_document": "HOUSE_OVERSIGHT_031773 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-22",
+      "description": "Email · The New York",
+      "source_document": "HOUSE_OVERSIGHT_032050 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-02-28",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033567 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031774 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033405 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033435 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033437 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033440 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033444 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-17",
+      "description": "Email · New Yorker",
+      "source_document": "HOUSE_OVERSIGHT_033448 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033344 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032835 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-22",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031775 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-24",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033345 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-26",
+      "description": "News · New York, California",
+      "source_document": "HOUSE_OVERSIGHT_031776 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-26",
+      "description": "Legal · New York",
+      "source_document": "HOUSE_OVERSIGHT_031802 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-26",
+      "description": "Legal · New York",
+      "source_document": "HOUSE_OVERSIGHT_031823 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-03-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031779 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-05",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032210 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-13",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033410 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-13",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033453 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-18",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033454 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033411 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-21",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033455 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-28",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033352 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-04-29",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033353 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-07",
+      "description": "Email · The New York",
+      "source_document": "HOUSE_OVERSIGHT_033354 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-07",
+      "description": "Email · The New York",
+      "source_document": "HOUSE_OVERSIGHT_033485 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-08",
+      "description": "Email · The New York, Floor",
+      "source_document": "HOUSE_OVERSIGHT_033355 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-09",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033356 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-09",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033357 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-11",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032836 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-13",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033144 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-14",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032838 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-15",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_031973 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-19",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033145 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-19",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033358 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-20",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033146 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-22",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033359 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-28",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_031786 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-28",
+      "description": "Email · New York",
+      "source_document": "HOUSE_OVERSIGHT_033360 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031787 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032011 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033147 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "Legal",
+      "source_document": "HOUSE_OVERSIGHT_033361 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "News · The New York, New York",
+      "source_document": "HOUSE_OVERSIGHT_033365 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-29",
+      "description": "Legal",
+      "source_document": "HOUSE_OVERSIGHT_033512 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-30",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033148 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-30",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033362 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-05-31",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033149 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-01",
+      "description": "Email · Paris",
+      "source_document": "HOUSE_OVERSIGHT_032204 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032839 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032840 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033150 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-01",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033151 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-03",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033515 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-04",
+      "description": "Email · New York City",
+      "source_document": "HOUSE_OVERSIGHT_033539 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-06",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033554 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-07",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033368 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-08",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_032034 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-08",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033152 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-10",
+      "description": "Email · Israelis, Travel",
+      "source_document": "HOUSE_OVERSIGHT_033528 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-13",
+      "description": "Email · Floor",
+      "source_document": "HOUSE_OVERSIGHT_033369 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-13",
+      "description": "Email · Israelis, Travel",
+      "source_document": "HOUSE_OVERSIGHT_033517 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031803 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031824 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-15",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_031825 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-06-17",
+      "description": "Email",
+      "source_document": "HOUSE_OVERSIGHT_033513 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-07-01",
+      "description": "Email · Israel Cooperation, Travel",
+      "source_document": "HOUSE_OVERSIGHT_032023 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
+      "date": "2019-07-04",
+      "description": "Email · Israel Cooperation, Travel",
+      "source_document": "HOUSE_OVERSIGHT_032012 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "source_page": null
+    },
+    {
       "date": "2019-07-06",
       "description": "Festnahme Epsteins; Anklage des SDNY wegen Sexhandels (Vorwürfe 2002–2005).",
       "source_document": "Strafverfahren Epstein – Gerichtsakten / Berichterstattung (NPR, CBS), 2019–2025",
@@ -272,6 +1772,1007 @@
     {
       "source_document": "House Oversight Committee / DOJ-Freigabe 2025 (oversight.house.gov)",
       "summary": "Der US-Kongressausschuss für Aufsicht (House Oversight Committee) veröffentlichte 2025 vom Justizministerium (DOJ) übergebene Epstein-Akten. Laut Ausschuss umfasste die erste Tranche 33.295 Seiten (u. a. Flugprotokolle, Gerichtsdokumente, Vernehmungen); später kamen rund 20.000 Seiten aus Epsteins Nachlass hinzu. Opferidentitäten wurden geschwärzt."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032012 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/4/2019. Orte: Israel Cooperation, Travel. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032023 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/1/2019. Orte: Israel Cooperation, Travel. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033513 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/17/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031803 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031824 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031825 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033369 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/13/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033517 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/13/2019. Orte: Israelis, Travel. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033528 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/10/2019. Orte: Israelis, Travel. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032034 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/8/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033152 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/8/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033368 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/7/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033554 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/6/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033539 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/4/2019. Orte: New York City. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033515 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/3/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032204 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/1/2019. Orte: Paris. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032839 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/1/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032840 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/1/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033150 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/1/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033151 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/1/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033149 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/31/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033148 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/30/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033362 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/30/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031787 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032011 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033147 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033361 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 5/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033365 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "News-Dokument, datiert 5/29/2019. Orte: The New York, New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033512 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 5/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031786 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/28/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033360 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/28/2019. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033359 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/22/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033146 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/20/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033145 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/19/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033358 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/19/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031973 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/15/2019. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032838 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/14/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033144 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/13/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032836 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/11/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033356 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/9/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033357 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/9/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033355 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/8/2019. Orte: The New York, Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033354 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/7/2019. Orte: The New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033485 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/7/2019. Orte: The New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033353 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/29/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033352 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/28/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033411 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033455 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033454 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/18/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033410 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/13/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033453 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/13/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032210 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/5/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031779 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/29/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031776 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "News-Dokument, datiert March 26, 2019. Orte: New York, California. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031802 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 3/26/2019. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031823 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 3/26/2019. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033345 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031775 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/22/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032835 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/19/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033344 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/18/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033405 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033435 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033437 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033440 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033444 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033448 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/17/2019. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031774 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/14/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033567 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/28/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031772 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/22/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031773 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/22/2019. Orte: The New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032050 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/22/2019. Orte: The New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033402 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033403 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033430 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033431 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/21/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033401 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/19/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033429 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/19/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033343 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/13/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033568 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/10/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033142 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/9/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031822 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/7/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031771 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/5/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032051 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/5/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033428 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/5/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033342 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/3/2019. Orte: Palm Beach. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033341 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 2/1/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031770 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 1/25/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033340 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 1/18/2019. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033339 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 1/10/2019. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031800 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033400 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033425 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033426 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032834 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033139 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033140 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033337 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033399 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033424 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031799 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/15/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033398 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/15/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033334 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/14/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033335 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/14/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033336 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/14/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033422 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/14/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033423 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/14/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032832 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033395 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 12/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033420 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 12/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032829 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 12/1/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031798 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/29/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033333 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/29/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033419 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/29/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033332 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/28/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033328 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/21/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033329 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 11/21/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033393 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/21/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033391 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033418 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033138 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/16/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032828 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/8/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033327 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/8/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032827 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/7/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033137 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 11/7/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033414 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/30/2018. Orte: New York, New York City. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033416 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/30/2018. Orte: New York, New York City. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032825 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/27/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033326 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/24/2018. Orte: The New York, Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031768 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 10/17/2018. Orte: California. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033412 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/12/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032821 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/5/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033127 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/5/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033129 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/5/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033133 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/5/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032818 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/4/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032813 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/3/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032814 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/3/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032816 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/3/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033124 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/3/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033125 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 10/3/2018. Orte: Florida. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033122 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/26/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033469 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Other-Dokument, datiert September 24, 2018. Orte: Florida Department, Florida Democratic Party. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033474 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Book-Dokument, datiert Sep 24, 2018. Orte: New York December, California. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032812 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Legal-Dokument, datiert 9/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033120 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/20/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032811 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/19/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033316 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032806 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033115 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033114 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/7/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032803 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/4/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032804 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/4/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033112 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 9/4/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032801 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/29/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032802 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/29/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033111 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/29/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032798 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032800 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033108 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033110 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032795 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/21/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032796 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/21/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033107 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/21/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031764 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 8/18/2018. Orte: Manhattan. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032792 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032793 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032785 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032788 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033103 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032780 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032782 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033098 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033100 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033315 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031804 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031806 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031809 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Orte: New York, Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031813 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Orte: New York, Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031818 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Orte: New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033097 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/13/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032779 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/9/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033563 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 7/9/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033314 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/28/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033096 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032775 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032776 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032777 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032778 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033095 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033313 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/22/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031788 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031789 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_031796 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/15/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033094 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 6/6/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032774 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/19/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033564 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/19/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033390 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/11/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033092 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/9/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032773 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/5/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033375 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033377 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033374 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 5/3/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033371 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/26/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033372 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/26/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032218 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/25/2018. Orte: Paris. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033091 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/22/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033312 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/20/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033090 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/18/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032771 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/17/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032770 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/15/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032769 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/14/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033280 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/14/2018. Orte: New Yorker. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033279 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/12/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032764 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032765 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032766 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032767 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032768 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033087 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033088 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033565 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/10/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033278 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 4/6/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033277 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/30/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032752 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/25/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032756 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/25/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032760 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/25/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032762 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/25/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032212 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032213 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032214 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032736 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032737 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032739 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032741 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032744 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032745 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032748 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033078 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033079 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033081 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033082 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033084 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/24/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032733 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/20/2018. Orte: California. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032732 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/18/2018. Orte: New York Wednesday. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033566 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/15/2018. Orte: New York Post, Street New York. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033276 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/14/2018. Orte: Floor. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033077 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/8/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032731 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/7/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_033076 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/7/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
+    },
+    {
+      "source_document": "HOUSE_OVERSIGHT_032729 (via robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release))",
+      "summary": "Email-Dokument, datiert 3/4/2018. Quelle: robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release)."
     }
-  ]
+  ],
+  "ingest_note": "Zeitleiste und Kurz-Zusammenfassungen ergänzt aus dem vorbereiteten Datensatz robertDouglass/epstein-files (HOUSE_OVERSIGHT-Release). Personennamen wurden bewusst nicht übernommen."
 }
