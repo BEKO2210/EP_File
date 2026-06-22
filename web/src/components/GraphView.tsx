@@ -140,12 +140,11 @@ export default function GraphView({ nodes, links, data }: Props) {
           drag.current = { x: e.clientX, y: e.clientY, vx: view.x, vy: view.y };
         }}
         onPointerMove={(e) => {
-          if (!drag.current) return;
-          setView((v) => ({
-            ...v,
-            x: drag.current!.vx + (e.clientX - drag.current!.x),
-            y: drag.current!.vy + (e.clientY - drag.current!.y),
-          }));
+          const d = drag.current;
+          if (!d) return;
+          const cx = e.clientX;
+          const cy = e.clientY;
+          setView((v) => ({ ...v, x: d.vx + (cx - d.x), y: d.vy + (cy - d.y) }));
         }}
         onPointerUp={() => (drag.current = null)}
         onPointerLeave={() => (drag.current = null)}
