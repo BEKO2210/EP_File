@@ -1,0 +1,46 @@
+{
+  "source_document": "demo_document_02",
+  "document_summary": "Zweites fiktives Beispieldokument. Es nennt zusätzliche Platzhalter-Personen und eine Organisation und verknüpft sie mit den Akteuren aus dem ersten Dokument. Dient ausschließlich dem Test der dokumentenübergreifenden Aggregation.",
+  "entities": [
+    { "name": "Person Beta", "type": "person", "mention_only": true },
+    { "name": "Person Delta", "type": "person", "mention_only": true },
+    { "name": "Person Gamma", "type": "person", "mention_only": false },
+    { "name": "Anwaltskanzlei Meridian", "type": "org", "mention_only": true },
+    { "name": "Inselresidenz", "type": "place", "mention_only": true }
+  ],
+  "relationships": [
+    {
+      "source": "Person Beta",
+      "target": "Person Delta",
+      "relation": "stellte vor",
+      "evidence_quote": "Person Beta stellte Person Delta bei einem Treffen vor.",
+      "page": 2
+    },
+    {
+      "source": "Person Gamma",
+      "target": "Anwaltskanzlei Meridian",
+      "relation": "wurde vertreten durch",
+      "evidence_quote": "Person Gamma wurde laut Akte durch die Anwaltskanzlei Meridian vertreten.",
+      "page": 7
+    },
+    {
+      "source": "Person Delta",
+      "target": "Inselresidenz",
+      "relation": "besuchte",
+      "evidence_quote": "Ein Besuch von Person Delta auf der Inselresidenz ist dokumentiert.",
+      "page": 8
+    }
+  ],
+  "events": [
+    {
+      "date": "2003-06-20",
+      "description": "Treffen, bei dem Person Beta Person Delta vorstellte.",
+      "source_page": 2
+    },
+    {
+      "date": "2005-11-03",
+      "description": "Gerichtlicher Vorgang mit Beteiligung von Person Gamma.",
+      "source_page": 7
+    }
+  ]
+}

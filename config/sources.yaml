@@ -1,0 +1,14 @@
+# Öffentliche Quell-URLs für die zu analysierenden Dokumente.
+#
+# WICHTIG: Nur ÖFFENTLICH freigegebene Dokumente eintragen (z. B. vom
+# US-Kongress / House Oversight Committee oder von Gerichten veröffentlichte,
+# ungesiegelte Unterlagen). Siehe DISCLAIMER.md.
+#
+# Trage echte URLs ein und führe dann `python -m ep_file.acquire` aus.
+
+documents:
+  # Beispiel-Eintrag (Platzhalter — durch echte öffentliche URL ersetzen):
+  # - id: oversight_release_001
+  #   url: https://oversight.house.gov/.../document.pdf
+  #   note: "House Oversight Committee – öffentlich freigegeben"
+  []
