@@ -19,6 +19,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [view, setView] = useState<View>("graph");
   const [filters, setFilters] = useState<Filters>(DEFAULT_FILTERS);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
 
   useEffect(() => {
     loadDataset().then(setData).catch((e) => setError(String(e)));
@@ -75,15 +76,44 @@ export default function App() {
   }
 
   return (
-    <div className="flex h-full">
-      <Sidebar filters={filters} onChange={setFilters} stats={data.stats} />
+    <div className="relative flex h-full">
+      {/* Sidebar: ab md statisch, auf Mobil ein Drawer */}
+      <div
+        className={`fixed inset-y-0 left-0 z-40 transform transition-transform duration-200 md:static md:z-auto md:translate-x-0 ${
+          sidebarOpen ? "translate-x-0" : "-translate-x-full"
+        }`}
+      >
+        <Sidebar
+          filters={filters}
+          onChange={setFilters}
+          stats={data.stats}
+          onClose={() => setSidebarOpen(false)}
+        />
+      </div>
+      {sidebarOpen && (
+        <div
+          className="fixed inset-0 z-30 bg-black/30 md:hidden"
+          onClick={() => setSidebarOpen(false)}
+        />
+      )}
 
       <main className="flex min-w-0 flex-1 flex-col">
         <DisclaimerBanner text={data.disclaimer} />
 
-        <header className="flex items-center justify-between border-b border-line bg-surface px-6 py-3">
-          <Tabs view={view} onChange={setView} />
-          <span className="hidden font-mono text-[11px] text-muted sm:block">
+        <header className="flex items-center justify-between gap-2 border-b border-line bg-surface px-4 py-3 md:px-6">
+          <div className="flex min-w-0 flex-1 items-center gap-2">
+            <button
+              onClick={() => setSidebarOpen(true)}
+              className="shrink-0 rounded-lg border border-line p-2 text-ink transition hover:bg-canvas md:hidden"
+              aria-label="Menü öffnen"
+            >
+              ☰
+            </button>
+            <div className="min-w-0 overflow-x-auto">
+              <Tabs view={view} onChange={setView} />
+            </div>
+          </div>
+          <span className="hidden shrink-0 font-mono text-[11px] text-muted lg:block">
             Stand: {new Date(data.generated_at).toLocaleString("de-DE")}
           </span>
         </header>
@@ -109,12 +139,12 @@ function Tabs({ view, onChange }: { view: View; onChange: (v: View) => void }) {
     ["summaries", "Zusammenfassungen"],
   ];
   return (
-    <nav className="flex gap-1 rounded-lg bg-canvas p-1">
+    <nav className="flex w-max gap-1 rounded-lg bg-canvas p-1">
       {tabs.map(([id, label]) => (
         <button
           key={id}
           onClick={() => onChange(id)}
-          className={`rounded-md px-3 py-1.5 text-sm font-medium transition ${
+          className={`shrink-0 whitespace-nowrap rounded-md px-3 py-1.5 text-sm font-medium transition ${
             view === id
               ? "bg-surface text-ink shadow-card"
               : "text-muted hover:text-ink"

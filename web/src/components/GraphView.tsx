@@ -1,4 +1,4 @@
-import { useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import { Dataset, GraphLink, GraphNode, TYPE_COLOR, TYPE_LABEL } from "../lib/data";
 
 interface Props {
@@ -92,6 +92,21 @@ export default function GraphView({ nodes, links, data }: Props) {
   const [selected, setSelected] = useState<string | null>(null);
   const [view, setView] = useState({ k: 1, x: 0, y: 0 });
   const drag = useRef<{ x: number; y: number; vx: number; vy: number } | null>(null);
+  const svgRef = useRef<SVGSVGElement>(null);
+
+  // Wheel-Zoom über einen NICHT-passiven Listener, damit preventDefault erlaubt
+  // ist (React-onWheel ist passiv → "Unable to preventDefault" + kein Zoom).
+  useEffect(() => {
+    const el = svgRef.current;
+    if (!el) return;
+    const handler = (e: WheelEvent) => {
+      e.preventDefault();
+      const factor = e.deltaY < 0 ? 1.12 : 1 / 1.12;
+      setView((v) => ({ ...v, k: Math.max(0.3, Math.min(4, v.k * factor)) }));
+    };
+    el.addEventListener("wheel", handler, { passive: false });
+    return () => el.removeEventListener("wheel", handler);
+  }, []);
 
   const pos = useMemo(() => computeLayout(nodes, links), [nodes, links]);
   const visibleIds = useMemo(() => new Set(nodes.map((n) => n.id)), [nodes]);
@@ -114,19 +129,13 @@ export default function GraphView({ nodes, links, data }: Props) {
     );
   }
 
-  const onWheel = (e: React.WheelEvent) => {
-    e.preventDefault();
-    const factor = e.deltaY < 0 ? 1.12 : 1 / 1.12;
-    setView((v) => ({ ...v, k: Math.max(0.3, Math.min(4, v.k * factor)) }));
-  };
-
   return (
     <div className="relative h-full w-full overflow-hidden">
       <svg
-        className="h-full w-full cursor-grab active:cursor-grabbing"
+        ref={svgRef}
+        className="h-full w-full touch-none cursor-grab active:cursor-grabbing"
         viewBox={`0 0 ${W} ${H}`}
         preserveAspectRatio="xMidYMid meet"
-        onWheel={onWheel}
         onPointerDown={(e) => {
           drag.current = { x: e.clientX, y: e.clientY, vx: view.x, vy: view.y };
         }}
@@ -264,7 +273,7 @@ function DetailPanel({
   onClose: () => void;
 }) {
   return (
-    <div className="absolute right-4 top-4 max-h-[calc(100%-2rem)] w-80 overflow-auto rounded-xl border border-line bg-surface p-4 shadow-card">
+    <div className="absolute right-4 top-4 max-h-[calc(100%-2rem)] w-[min(20rem,85vw)] overflow-auto rounded-xl border border-line bg-surface p-4 shadow-card">
       <div className="flex items-start justify-between gap-2">
         <div>
           <h3 className="text-base font-semibold text-ink">{node.name}</h3>

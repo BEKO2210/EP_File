@@ -10,16 +10,28 @@ interface Props {
   filters: Filters;
   onChange: (f: Filters) => void;
   stats: { documents: number; entities: number; relationships: number; events: number };
+  onClose?: () => void;
 }
 
 const ALL_TYPES: EntityType[] = ["person", "org", "place"];
 
-export default function Sidebar({ filters, onChange, stats }: Props) {
+export default function Sidebar({ filters, onChange, stats, onClose }: Props) {
   return (
-    <aside className="flex w-72 shrink-0 flex-col gap-6 border-r border-line bg-surface p-5">
-      <div>
-        <h1 className="text-lg font-semibold tracking-tight text-ink">EP_File</h1>
-        <p className="mt-0.5 text-xs text-muted">Dokument-Analyse &amp; Visualisierung</p>
+    <aside className="flex h-full w-72 shrink-0 flex-col gap-6 overflow-y-auto border-r border-line bg-surface p-5">
+      <div className="flex items-start justify-between">
+        <div>
+          <h1 className="text-lg font-semibold tracking-tight text-ink">EP_File</h1>
+          <p className="mt-0.5 text-xs text-muted">Dokument-Analyse &amp; Visualisierung</p>
+        </div>
+        {onClose && (
+          <button
+            onClick={onClose}
+            className="rounded-md p-1 text-muted transition hover:bg-canvas hover:text-ink md:hidden"
+            aria-label="Menü schließen"
+          >
+            ✕
+          </button>
+        )}
       </div>
 
       <StatGrid stats={stats} />
