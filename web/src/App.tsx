@@ -3,6 +3,7 @@ import Sidebar, { Filters } from "./components/Sidebar";
 import GraphView from "./components/GraphView";
 import TimelineView from "./components/TimelineView";
 import SummaryView from "./components/SummaryView";
+import ErrorBoundary from "./components/ErrorBoundary";
 import { Dataset, loadDataset } from "./lib/data";
 
 type View = "graph" | "timeline" | "summaries";
@@ -88,11 +89,13 @@ export default function App() {
         </header>
 
         <section className="min-h-0 flex-1 bg-canvas">
-          {view === "graph" && (
-            <GraphView nodes={filtered.nodes} links={filtered.links} data={data} />
-          )}
-          {view === "timeline" && <TimelineView events={filtered.events} />}
-          {view === "summaries" && <SummaryView summaries={filtered.summaries} />}
+          <ErrorBoundary key={view}>
+            {view === "graph" && (
+              <GraphView nodes={filtered.nodes} links={filtered.links} data={data} />
+            )}
+            {view === "timeline" && <TimelineView events={filtered.events} />}
+            {view === "summaries" && <SummaryView summaries={filtered.summaries} />}
+          </ErrorBoundary>
         </section>
       </main>
     </div>
